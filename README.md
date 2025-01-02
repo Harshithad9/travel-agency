@@ -42,5 +42,9 @@ This is a simple Travel Agency website built using **HTML** and **CSS**. The web
 
 ![image.alt](https://github.com/Harshithad9/travel-agency/blob/1db13d6caef06d60fc49c624cd339b5c2d2d501d/Screenshot%202025-01-02%20142529.png)
 
+![image.alt](https://github.com/Harshithad9/travel-agency/blob/6a2231a22eca6e23c8433a849310d8bafeaa47ca/Screenshot%202025-01-02%20142634.png)
+
+![image.alt](https://github.com/Harshithad9/travel-agency/blob/6a2231a22eca6e23c8433a849310d8bafeaa47ca/Screenshot%202025-01-02%20142658.png)
+
 
 
