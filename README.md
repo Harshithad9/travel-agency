@@ -8,7 +8,7 @@ This is a simple Travel Agency website built using **HTML** and **CSS**. The web
 - **Destinations Page**: A list of popular travel destinations with details, images, and booking options.
 - **Booking Form**: A form for users to submit their booking details such as name, destination, and travel dates.
 - **Gallery**: A collection of images showcasing different travel destinations.
-- **Responsive Design**: The website is designed to be responsive, ensuring a good user experience across various devices (desktop, tablet, and mobile).
+- **Responsive Design**: The website is designed to be responsive, ensuring a good user experience.
 
 ## Technologies Used
 
@@ -39,6 +39,8 @@ This is a simple Travel Agency website built using **HTML** and **CSS**. The web
 ![image.alt](https://github.com/Harshithad9/travel-agency/blob/421a15de2b320804de00ca81464f21ee2d81167f/Screenshot%202025-01-02%20142446.png)
 
 ![image.alt](https://github.com/Harshithad9/travel-agency/blob/a3d3c07aa917cb8b57830f5f3e35b17c232090ed/Screenshot%202025-01-02%20142516.png)
+
+![image.alt](https://github.com/Harshithad9/travel-agency/blob/1db13d6caef06d60fc49c624cd339b5c2d2d501d/Screenshot%202025-01-02%20142529.png)
 
 
 
