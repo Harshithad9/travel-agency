@@ -1,0 +1,124 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  /* Header Styles */
+  .destinations-header {
+    background-color: #2e3b4e;
+    color: #fff;
+    padding: 30px 0;
+    text-align: center;
+  }
+  
+  .destinations-header h1 {
+    font-size: 3em;
+    margin: 0;
+  }
+  
+  .destinations-header p {
+    font-size: 1.2em;
+    margin-top: 10px;
+  }
+  
+  /* Destination Details Section */
+  .destination-details {
+    background-color: #fff;
+    padding: 40px 20px;
+    max-width: 1200px;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .destination-details img {
+    width: 100%;
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .destination-details h2, .destination-details h3 {
+    font-size: 2em;
+    color: #2e3b4e;
+    margin-top: 20px;
+  }
+  
+  .destination-details p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  /* Lists */
+  .destination-details ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .destination-details ul li {
+    font-size: 1.1em;
+    margin: 10px 0;
+  }
+  
+  /* Testimonials */
+  blockquote {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-left: 5px solid #2e3b4e;
+    margin: 20px 0;
+    font-style: italic;
+    font-size: 1.1em;
+  }
+  
+  blockquote p {
+    margin: 0;
+  }
+  
+  /* Map */
+  iframe {
+    width: 100%;
+    max-width: 600px;
+    height: 400px;
+    margin-top: 20px;
+    border: none;
+  }
+  
+  /* Footer */
+  .destinations-footer {
+    background-color: #2e3b4e;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 1em;
+  }
+  
+  .destinations-footer a {
+    color: #f4b400;
+    text-decoration: none;
+  }
+  
+  .destinations-footer a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Back to Home Button */
+  .back-to-home {
+    display: inline-block;
+    background-color: #f4b400;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 1.1em;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .back-to-home:hover {
+    background-color: #d48e00;
+  }
+  
