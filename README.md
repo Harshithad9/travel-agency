@@ -19,7 +19,7 @@ This is a simple Travel Agency website built using **HTML** and **CSS**. The web
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/travel-agency.git
+    git clone https://github.com/Harshithad9/travel-agency.git
     ```
 
 2. Navigate to the project directory:
